@@ -13,6 +13,8 @@
 ### Options
 
 - `-h`, `--help`, `--usage`: Display the help message and exit.
+- `-a`, `--all`            : Update all repositories without prompting.
+- `--dry-run`              : List repositories that would be updated without updating.
 
 ### Input Examples
 
